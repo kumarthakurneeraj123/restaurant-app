@@ -5,7 +5,7 @@ import AvailableMeals from './AvailableMeals';
 
 const Meals =(props)=>{
     return (
-        <Fragment background='black'>
+        <Fragment >
             <MealsSummary />
             <AvailableMeals />
         </Fragment>
